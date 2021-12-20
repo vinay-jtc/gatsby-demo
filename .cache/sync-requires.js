@@ -7,6 +7,7 @@ exports.components = {
   "component---cache-dev-404-page-js": preferDefault(require("/home/vanni/jtc/gatsby-demo/.cache/dev-404-page.js")),
   "component---src-pages-404-js": preferDefault(require("/home/vanni/jtc/gatsby-demo/src/pages/404.js")),
   "component---src-pages-about-js": preferDefault(require("/home/vanni/jtc/gatsby-demo/src/pages/about.js")),
+  "component---src-pages-blog-js": preferDefault(require("/home/vanni/jtc/gatsby-demo/src/pages/blog.js")),
   "component---src-pages-index-js": preferDefault(require("/home/vanni/jtc/gatsby-demo/src/pages/index.js"))
 }
 
