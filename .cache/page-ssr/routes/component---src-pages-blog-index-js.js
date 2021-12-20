@@ -2886,7 +2886,7 @@ const BlogPage = ({
   }, node.frontmatter.title)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", null, "Posted: ", node.frontmatter.date))));
 };
 
-const query = "444095086";
+const query = "4044553533";
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (BlogPage);
 
 /***/ }),
